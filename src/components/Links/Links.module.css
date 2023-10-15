@@ -1,0 +1,8 @@
+.links {
+  display: flex;
+  flex-direction: column;
+}
+
+.links a {
+  width: max-content;
+}

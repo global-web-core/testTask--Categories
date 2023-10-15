@@ -1,0 +1,7 @@
+.catalog {
+  display: flex;
+  flex-direction: column;
+}
+.back {
+  margin-top: 20px;
+}
